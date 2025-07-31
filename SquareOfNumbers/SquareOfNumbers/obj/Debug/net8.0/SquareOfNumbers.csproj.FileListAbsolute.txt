@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\Brence C#\SquareOfNumbers\SquareOfNumbers\bin\Debug\net8.0\SquareOfNumbers.exe
+C:\Users\Student\Desktop\Brence C#\SquareOfNumbers\SquareOfNumbers\bin\Debug\net8.0\SquareOfNumbers.deps.json
+C:\Users\Student\Desktop\Brence C#\SquareOfNumbers\SquareOfNumbers\bin\Debug\net8.0\SquareOfNumbers.runtimeconfig.json
+C:\Users\Student\Desktop\Brence C#\SquareOfNumbers\SquareOfNumbers\bin\Debug\net8.0\SquareOfNumbers.dll
+C:\Users\Student\Desktop\Brence C#\SquareOfNumbers\SquareOfNumbers\bin\Debug\net8.0\SquareOfNumbers.pdb
+C:\Users\Student\Desktop\Brence C#\SquareOfNumbers\SquareOfNumbers\obj\Debug\net8.0\SquareOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Brence C#\SquareOfNumbers\SquareOfNumbers\obj\Debug\net8.0\SquareOfNumbers.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Brence C#\SquareOfNumbers\SquareOfNumbers\obj\Debug\net8.0\SquareOfNumbers.AssemblyInfo.cs
+C:\Users\Student\Desktop\Brence C#\SquareOfNumbers\SquareOfNumbers\obj\Debug\net8.0\SquareOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Brence C#\SquareOfNumbers\SquareOfNumbers\obj\Debug\net8.0\SquareOfNumbers.dll
+C:\Users\Student\Desktop\Brence C#\SquareOfNumbers\SquareOfNumbers\obj\Debug\net8.0\refint\SquareOfNumbers.dll
+C:\Users\Student\Desktop\Brence C#\SquareOfNumbers\SquareOfNumbers\obj\Debug\net8.0\SquareOfNumbers.pdb
+C:\Users\Student\Desktop\Brence C#\SquareOfNumbers\SquareOfNumbers\obj\Debug\net8.0\SquareOfNumbers.genruntimeconfig.cache
+C:\Users\Student\Desktop\Brence C#\SquareOfNumbers\SquareOfNumbers\obj\Debug\net8.0\ref\SquareOfNumbers.dll
