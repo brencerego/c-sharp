@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\Brence C#\PosNegZero\PosNegZero\bin\Debug\net8.0\PosNegZero.exe
+C:\Users\Student\Desktop\Brence C#\PosNegZero\PosNegZero\bin\Debug\net8.0\PosNegZero.deps.json
+C:\Users\Student\Desktop\Brence C#\PosNegZero\PosNegZero\bin\Debug\net8.0\PosNegZero.runtimeconfig.json
+C:\Users\Student\Desktop\Brence C#\PosNegZero\PosNegZero\bin\Debug\net8.0\PosNegZero.dll
+C:\Users\Student\Desktop\Brence C#\PosNegZero\PosNegZero\bin\Debug\net8.0\PosNegZero.pdb
+C:\Users\Student\Desktop\Brence C#\PosNegZero\PosNegZero\obj\Debug\net8.0\PosNegZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Brence C#\PosNegZero\PosNegZero\obj\Debug\net8.0\PosNegZero.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Brence C#\PosNegZero\PosNegZero\obj\Debug\net8.0\PosNegZero.AssemblyInfo.cs
+C:\Users\Student\Desktop\Brence C#\PosNegZero\PosNegZero\obj\Debug\net8.0\PosNegZero.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Brence C#\PosNegZero\PosNegZero\obj\Debug\net8.0\PosNegZero.dll
+C:\Users\Student\Desktop\Brence C#\PosNegZero\PosNegZero\obj\Debug\net8.0\refint\PosNegZero.dll
+C:\Users\Student\Desktop\Brence C#\PosNegZero\PosNegZero\obj\Debug\net8.0\PosNegZero.pdb
+C:\Users\Student\Desktop\Brence C#\PosNegZero\PosNegZero\obj\Debug\net8.0\PosNegZero.genruntimeconfig.cache
+C:\Users\Student\Desktop\Brence C#\PosNegZero\PosNegZero\obj\Debug\net8.0\ref\PosNegZero.dll
