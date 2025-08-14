@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\brence C#\Bank\Bank\bin\Debug\net8.0\Bank.exe
+C:\Users\Student\Desktop\brence C#\Bank\Bank\bin\Debug\net8.0\Bank.deps.json
+C:\Users\Student\Desktop\brence C#\Bank\Bank\bin\Debug\net8.0\Bank.runtimeconfig.json
+C:\Users\Student\Desktop\brence C#\Bank\Bank\bin\Debug\net8.0\Bank.dll
+C:\Users\Student\Desktop\brence C#\Bank\Bank\bin\Debug\net8.0\Bank.pdb
+C:\Users\Student\Desktop\brence C#\Bank\Bank\obj\Debug\net8.0\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\brence C#\Bank\Bank\obj\Debug\net8.0\Bank.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\brence C#\Bank\Bank\obj\Debug\net8.0\Bank.AssemblyInfo.cs
+C:\Users\Student\Desktop\brence C#\Bank\Bank\obj\Debug\net8.0\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\brence C#\Bank\Bank\obj\Debug\net8.0\Bank.dll
+C:\Users\Student\Desktop\brence C#\Bank\Bank\obj\Debug\net8.0\refint\Bank.dll
+C:\Users\Student\Desktop\brence C#\Bank\Bank\obj\Debug\net8.0\Bank.pdb
+C:\Users\Student\Desktop\brence C#\Bank\Bank\obj\Debug\net8.0\Bank.genruntimeconfig.cache
+C:\Users\Student\Desktop\brence C#\Bank\Bank\obj\Debug\net8.0\ref\Bank.dll
