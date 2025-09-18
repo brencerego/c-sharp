@@ -3,11 +3,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Create object of NumberChecker
-        NumberChecker checker = new NumberChecker();
-
-        // Call methods
+    
+        NumberChecker checker = new NumberChecker();    
         checker.ReadNumber();
         checker.DisplayResult();
     }
+
 }
