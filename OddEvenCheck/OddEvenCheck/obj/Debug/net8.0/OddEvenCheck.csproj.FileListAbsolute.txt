@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\brence C#\OddEvenCheck\OddEvenCheck\bin\Debug\net8.0\OddEvenCheck.exe
+C:\Users\Student\Desktop\brence C#\OddEvenCheck\OddEvenCheck\bin\Debug\net8.0\OddEvenCheck.deps.json
+C:\Users\Student\Desktop\brence C#\OddEvenCheck\OddEvenCheck\bin\Debug\net8.0\OddEvenCheck.runtimeconfig.json
+C:\Users\Student\Desktop\brence C#\OddEvenCheck\OddEvenCheck\bin\Debug\net8.0\OddEvenCheck.dll
+C:\Users\Student\Desktop\brence C#\OddEvenCheck\OddEvenCheck\bin\Debug\net8.0\OddEvenCheck.pdb
+C:\Users\Student\Desktop\brence C#\OddEvenCheck\OddEvenCheck\obj\Debug\net8.0\OddEvenCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\brence C#\OddEvenCheck\OddEvenCheck\obj\Debug\net8.0\OddEvenCheck.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\brence C#\OddEvenCheck\OddEvenCheck\obj\Debug\net8.0\OddEvenCheck.AssemblyInfo.cs
+C:\Users\Student\Desktop\brence C#\OddEvenCheck\OddEvenCheck\obj\Debug\net8.0\OddEvenCheck.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\brence C#\OddEvenCheck\OddEvenCheck\obj\Debug\net8.0\OddEvenCheck.dll
+C:\Users\Student\Desktop\brence C#\OddEvenCheck\OddEvenCheck\obj\Debug\net8.0\refint\OddEvenCheck.dll
+C:\Users\Student\Desktop\brence C#\OddEvenCheck\OddEvenCheck\obj\Debug\net8.0\OddEvenCheck.pdb
+C:\Users\Student\Desktop\brence C#\OddEvenCheck\OddEvenCheck\obj\Debug\net8.0\OddEvenCheck.genruntimeconfig.cache
+C:\Users\Student\Desktop\brence C#\OddEvenCheck\OddEvenCheck\obj\Debug\net8.0\ref\OddEvenCheck.dll
