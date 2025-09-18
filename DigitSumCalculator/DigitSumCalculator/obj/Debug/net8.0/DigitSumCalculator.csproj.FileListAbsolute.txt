@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\brence C#\DigitSumCalculator\DigitSumCalculator\bin\Debug\net8.0\DigitSumCalculator.exe
+C:\Users\Student\Desktop\brence C#\DigitSumCalculator\DigitSumCalculator\bin\Debug\net8.0\DigitSumCalculator.deps.json
+C:\Users\Student\Desktop\brence C#\DigitSumCalculator\DigitSumCalculator\bin\Debug\net8.0\DigitSumCalculator.runtimeconfig.json
+C:\Users\Student\Desktop\brence C#\DigitSumCalculator\DigitSumCalculator\bin\Debug\net8.0\DigitSumCalculator.dll
+C:\Users\Student\Desktop\brence C#\DigitSumCalculator\DigitSumCalculator\bin\Debug\net8.0\DigitSumCalculator.pdb
+C:\Users\Student\Desktop\brence C#\DigitSumCalculator\DigitSumCalculator\obj\Debug\net8.0\DigitSumCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\brence C#\DigitSumCalculator\DigitSumCalculator\obj\Debug\net8.0\DigitSumCalculator.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\brence C#\DigitSumCalculator\DigitSumCalculator\obj\Debug\net8.0\DigitSumCalculator.AssemblyInfo.cs
+C:\Users\Student\Desktop\brence C#\DigitSumCalculator\DigitSumCalculator\obj\Debug\net8.0\DigitSumCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\brence C#\DigitSumCalculator\DigitSumCalculator\obj\Debug\net8.0\DigitSumCalculator.dll
+C:\Users\Student\Desktop\brence C#\DigitSumCalculator\DigitSumCalculator\obj\Debug\net8.0\refint\DigitSumCalculator.dll
+C:\Users\Student\Desktop\brence C#\DigitSumCalculator\DigitSumCalculator\obj\Debug\net8.0\DigitSumCalculator.pdb
+C:\Users\Student\Desktop\brence C#\DigitSumCalculator\DigitSumCalculator\obj\Debug\net8.0\DigitSumCalculator.genruntimeconfig.cache
+C:\Users\Student\Desktop\brence C#\DigitSumCalculator\DigitSumCalculator\obj\Debug\net8.0\ref\DigitSumCalculator.dll
